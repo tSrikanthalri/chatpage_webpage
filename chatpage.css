@@ -1,0 +1,106 @@
+.main-heading {
+    text-align: center;
+    color: #ffffff;
+    background-color: #323f4b;
+    padding: 14px;
+    font-family: 'roboto';
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.bg-container {
+    background-image: url(' https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.paragraph {
+    color: #ffffff;
+    background-color: #47a3f3;
+    font-family: 'roboto';
+    font-size: 14px;
+    padding: 11px;
+    text-align: right;
+    margin: 22px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 46px;
+}
+
+.paragraph2 {
+    color: #ffffff;
+    background-color: #52606d;
+    font-family: 'roboto';
+    font-size: 14px;
+    padding: 11px;
+    margin: 22px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+
+}
+
+.para3 {
+    color: white;
+    font-family: 'roboto';
+    font-size: 14px;
+    background-color: #47a3f3;
+    padding: 11px;
+    margin: 22px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: right;
+}
+
+.para4 {
+    color: white;
+    background-color: #52606d;
+    font-family: roboto;
+    padding: 11px;
+    margin: 22px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    font-size: 14px;
+}
+
+.para5 {
+    color: #ffffff;
+    background-color: #47a3f3;
+    font-size: 14px;
+    font-family: 'roboto';
+    padding: 11px;
+    margin: 22px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: right;
+}
+
+.para6 {
+    color: #ffffff;
+    background-color: #52606d;
+    font-family: 'roboto';
+    font-size: 14px;
+    padding: 11px;
+    margin: 22px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.para7 {
+    color: #ffffff;
+    background-color: #52606d;
+    font-family: 'roboto';
+    font-size: 14px;
+    padding: 11px;
+    margin: 22px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: right;
+}
